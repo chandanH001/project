@@ -1,0 +1,31 @@
+
+.main-header{
+
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+    border-radius: 5px;
+}
+table, td, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.nav-menu li{
+    display: inline;
+    margin-right: 5px;
+    
+}
+ 
+.nav-menu li a {
+  color: #000;
+  text-decoration: none;
+}
+
+.ct-form {
+    margin-top: 10px;
+}
+.ct-form label , fieldset{
+
+    display: block;
+    margin-top: 10px;
+}
